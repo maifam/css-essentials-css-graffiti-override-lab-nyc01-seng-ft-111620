@@ -20,7 +20,9 @@
   display: none;
 }
 
-#wall .parent 
+#wall .parent + last-child #tag-6 {
+  display: none;
+}
 
 
 
